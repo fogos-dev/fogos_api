@@ -1,2 +1,2 @@
-# fogos_api
-API do Fogos para acesso ao Banco de Dados.
+# FOGOS API
+API do FOGOS para acesso ao Banco de Dados.
